@@ -28,6 +28,7 @@ body {
         opacity: 0;
     }
 }
+/* Animation fade out du texte d'intro */
 .logo {
     position: absolute;
     top: 20%;
@@ -53,6 +54,7 @@ body {
         width: 18em;
     }
 }
+/* Animation du logo */
 p {
   color: #FFFF82;
 }
@@ -95,3 +97,4 @@ p {
         top: -170%;
     }
 }
+/* Animation du texte */
