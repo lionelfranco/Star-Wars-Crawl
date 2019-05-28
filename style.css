@@ -1,6 +1,8 @@
 body {
   margin: 0;
   background-image: url(fond-etoile.png);
+  height: 100%;
+  width: 100%;
 }
 .intro {
     text-align: justify;
